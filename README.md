@@ -1,26 +1,29 @@
 # Dhandare Lab Management System
 
-A full-stack MERN pathology lab management system with AI-powered disease prediction modules.
+A full-stack MERN-based pathology lab management system developed as an academic group project by a team of four members. The application provides online pathology test booking and includes machine learning-based disease prediction modules and a medical chatbot.
 
 ## Features
 - Online pathology lab management
-- Blood test booking interface
-- AI-based Heart Disease Prediction
-- AI-based Diabetes Prediction
-- AI-based Kidney Disease Prediction
-- Medical AI Chatbot
-- Responsive modern UI
+- Blood test booking
+- Heart disease risk prediction
+- Diabetes risk prediction
+- Kidney disease risk prediction
+- Medical chatbot
+- Responsive user interface
 
-## Tech Stack
+## Technologies Used
 - React.js
 - Node.js
 - Express.js
 - MongoDB
-- Python ML Models
+- Python
 - Tailwind CSS
 
 ## Project Screenshots
-Screenshots are uploaded in the repository.
+Application screenshots are available in this repository.
 
-## Author
-Hiteshi Dhandare
+## Team Members
+- Meena Bist
+- Hiteshi Dhandare
+- Shree Kolwankar
+- Ayush Desai
